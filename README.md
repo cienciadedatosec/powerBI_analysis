@@ -1,2 +1,2 @@
-# powerBI_analysis
-Presento mis proyectos de Power BI
+# Obentivo
+En este repositorio realizo un análisis de el impacto de las estrategias de marketing sobre el nivel de ventas. 
